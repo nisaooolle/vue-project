@@ -1,7 +1,6 @@
 <template>
   <div class="motor">
     <br>
-    <h1>SEMBARANG</h1>
     <hr>
    <h1>MOTOR <i class="fa-solid fa-motorcycle"></i></h1>
    <hr>
