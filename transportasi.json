@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "merk": "Honda Scoopy",
+      "buatan": "Indonesia",
+      "harga": "Rp. 21.970.000",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://www.wahanahonda.com/assets/upload/produk/gambar/PRODUK_GAMBAR_38_2021-12-08.png"
+    },
+    {
+      "id": 1,
+      "merk": "Honda Pcx",
+      "buatan": "Indonesia",
+      "harga": "Rp. 32.252.000",
+      "masaproduksi": "2010",
+      "image": "https://www.wahanahonda.com/assets/upload/produk/varian_warna/14/PRODUK_VARIAN-WARNA_14_05-02-2021_601d1c1aaceda.png"
+    },
+    {
+      "id": 2,
+      "merk": "Honda Vario 125",
+      "buatan": "Indonesia",
+      "harga": "Rp 22,35 - 24,25 Juta ",
+      "masaproduksi": "2010",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/73/987/honda-vario-125-esp-58477.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Honda Yamaha Fazzio",
+      "buatan": "Indonesia",
+      "harga": "Rp 21,89 - 22,19 Juta ",
+      "masaproduksi": "2010",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/84/2527/yamaha-fazzio-31380.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Honda CBR250RR",
+      "buatan": "Indonesia",
+      "harga": "Rp 62,58 - 75,15 Juta ",
+      "masaproduksi": "2010",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/73/1560/honda-cbr-250rr-71120.jpg"
+    }
+  ],
+  "kapals": [
+    {
+      "id": 0,
+      "namakapal": "KMP Bobara",
+      "panjang": 33.5,
+      "lebar": 11,
+      "tinggi": 2.8,
+      "saratkapal": 2,
+      "namapemilik": "PT.ASDP Indonesia",
+      "image": "https://blue.kumparan.com/image/upload/c_fill,f_jpg,h_900,q_auto,w_1200/g_south,l_og_media_partner_oxmuq0/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20Media%20Partner%0DCermat,x_140,y_26/ocqpm6nx7ocbqn6ustvf.jpg"
+    },
+    {
+      "id": 1,
+      "namakapal": "KMP Uma Kalada",
+      "panjang": 42.4,
+      "lebar": 12,
+      "tinggi": 3,
+      "saratkapal": 2.2,
+      "namapemilik": "PT.ASDP Indonesia",
+      "image": "https://cdn-2.tstatic.net/banjarmasin/foto/bank/images/kmp-awu-awu-pelabuhan-pt-asdp-feri-batulicin-kabupaten-tanbu-ke-garongkong-sulsel-27022021.jpg"
+    },
+    {
+      "id": 2,
+      "namakapal": "41 KMP Portlink",
+      "panjang": "73,77m",
+      "lebar": "16.00m",
+      "tinggi": "4.60m",
+      "saratkapal": "3.50m",
+      "namapemilik": "PT.ASDP Indonesia",
+      "image": "https://pannmaritim.com/wp-content/uploads/2021/01/Kapal-KMP-Portlink-V-1024x409.jpg"
+    },
+    {
+      "id": 3,
+      "namakapal": "KMP Trima Jaya 9",
+      "panjang": 51.41,
+      "lebar": 14,
+      "tinggi": 2.63,
+      "saratkapal": 1.95,
+      "namapemilik": "PT. Pelayaran Makmur Bersama",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEiF3c63Cr8n-IquCYKnNk0yj2CQyMA0O1dUcPOc_50lgBtXAaJQCjYW6I3tX2BG3Ju-OsURG0jUyq4hQlo_Ie0r6bYCUcm_o7sND13Z122E73uRmKn6MgIC0I4hF3EXfGzxAlfNHQmTsgfNGh9T9WRLyfGlnoKELUcjLgXrqiyRVsAmGnzmxRj5IitJ=w640-h368"
+    },
+    {
+      "id": 4,
+      "namakapal": "KMP Tunu Pratama Jaya",
+      "panjang": 51.41,
+      "lebar": 14,
+      "tinggi": 2.63,
+      "saratkapal": 1.95,
+      "namapemilik": "PT. Raputra Jaya",
+      "image": "https://tenderstore.id/filesfree/Photo1_2021-09-239151f4bca0e0f1a5cc8030acc8f91f4b1111112222.jpg"
+    }
+  ],
+  "mobils": [
+    {
+      "id": 0,
+      "merk": "Daihatsu Gran Max",
+      "buatan": "Indonesia",
+      "harga": "Rp 156.75 - Rp 224.5 Juta",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://img.cintamobil.com/resize/600x-/2020/10/12/ZXn5Pos1/mobil-buatan-indonesia-2-882e.jpg"
+    },
+    {
+      "id": 1,
+      "merk": " Toyota Agya",
+      "buatan": "Indonesia",
+      "harga": "Rp 144.9 - Rp 170.69 Juta",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://img.cintamobil.com/resize/600x-/2020/10/12/ZXn5Pos1/mobil-buatan-indonesia-1-8dd1.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Suzuki Ertiga",
+      "buatan": "Indonesia",
+      "harga": "Rp 199.4 - Rp 255.15 Juta",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://img.cintamobil.com/resize/600x-/2020/10/12/ZXn5Pos1/mobil-buatan-indonesia-8-86a3.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Honda Brio",
+      "buatan": "Indonesia",
+      "harga": "Rp 157,9 - 237,4 Juta",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/14/1995/honda-brio-12704.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Mitsubishi Xpander",
+      "buatan": "Tokyo",
+      "harga": "Rp 157,9 - 237,4 Juta",
+      "masaproduksi": "2010-Sekarang",
+      "image": "https://imgcdn.oto.com/medium/gallery/exterior/28/1635/mitsubishi-xpander-98187.jpg"
+    }
+  ],
+  "bus": [
+    {
+      "id": 0,
+      "merk": "Symphonie",
+      "buatan": "Indonesia",
+      "rute": "Jakarta-Tangerang 1 hari",
+      "hargasewa": "Rp1.950.000",
+      "image": "https://mediapenulis.com/wp-content/uploads/2020/03/Bus-Symphonie.jpg"
+    },
+    {
+      "id": 1,
+      "merk": "Suryaputra",
+      "buatan": "Indonesia",
+      "rute": "Bogor Kota Dsk, Sentul, Jungle (12 jam)",
+      "hargasewa": "Rp2.700.000",
+      "image": "https://mediapenulis.com/wp-content/uploads/2020/03/Bus-Suryaputra-768x432.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Anak Bangsa Transindo",
+      "buatan": "Indonesia",
+      "rute": "Cipanas/Cibodas/Ciloto/Cimacan",
+      "hargasewa": "2.600.000",
+      "image": "https://mediapenulis.com/wp-content/uploads/2020/03/Bus-Anak-Bangsa-Transindo.jpeg"
+    },
+    {
+      "id": 3,
+      "merk": "Sinar Jaya",
+      "buatan": "Indonesia",
+      "rute": "Jakarta-Surabaya",
+      "hargasewa": "2.600.000",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/04/27/sleeper-bus-po-new-shantika.jpeg?w=1080"
+    },
+    {
+      "id": 4,
+      "merk": "Tami Jaya",
+      "buatan": "Indonesia",
+      "rute": "Yogyakarta-Bali",
+      "hargasewa": "Rp 600.000",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2020/09/21/bus-social-distancing-dan-suite-class-po-handoyo-3_169.jpeg?w=620"
+    }
+  ],
+  "pesawats": [
+    {
+      "id": 0,
+      "merk": "Emirates",
+      "bandara": "Dubai",
+      "tahun": 1958,
+      "image": "https://asset.kompas.com/crops/39R-XPY7SAx1QP_gEcRqoxn3yEE=/0x0:650x433/750x500/data/photo/2022/01/20/61e958fe3fd61.jpg"
+    },
+    {
+      "id": 1,
+      "merk": "Qantas Airways",
+      "bandara": "Australia",
+      "tahun": 1920,
+      "image": "https://asset.kompas.com/crops/LoV8kxQscy7hSC0KbPXybZ_PqAw=/111x33:911x566/750x500/data/photo/2018/05/08/2264516168.jpg"
+    },
+    {
+      "id": 2,
+      "merk": "Cathay Pacific Airways",
+      "bandara": "Hong Kong",
+      "tahun": 1949,
+      "image": "https://asset.kompas.com/crops/xfingmA7sjuhAYf10bfHTuU4VVY=/0x0:1884x1256/750x500/data/photo/2020/04/09/5e8e9450385db.jpg"
+    },
+    {
+      "id": 3,
+      "merk": "Singapore Airlines",
+      "bandara": "Singapore",
+      "tahun": 1947,
+      "image": "https://asset.kompas.com/crops/vXs9USNidhau9n2P3J55CPN69gU=/0x0:1000x667/750x500/data/photo/2020/03/23/5e78b62829743.jpg"
+    },
+    {
+      "id": 4,
+      "merk": "Japan Airlines",
+      "bandara": "Jepang",
+      "tahun": 1951,
+      "image": "https://asset.kompas.com/crops/dBSFpSWBfz14bQHX-uE4iechvXA=/0x0:0x0/750x500/data/photo/2019/12/27/5e05b689bcc1f.png"
+    }
+  ]
+}
